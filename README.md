@@ -4,13 +4,14 @@
 
 ## 应用截图
 
-![./screens/1.png](./screens/1.png)
+<center class="half">  
+  <img src="./screens/1.png" width="300"/><img src="./screens/2.png" width="300" style="margin-left:50px"/>
+</center>
 
-![./screens/1.png](./screens/2.png)
+<center class="half">  
+  <img src="./screens/3.png" width="300"/><img src="./screens/4.png" width="300" style="margin-left:50px"/>
+</center>
 
-![./screens/1.png](./screens/3.png)
-
-![./screens/1.png](./screens/4.png)
-
-![./screens/1.png](./screens/5.png)
-
+<center class="half">  
+  <img src="./screens/5.png" width="300"/>
+</center>
