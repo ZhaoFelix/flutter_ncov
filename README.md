@@ -1,16 +1,16 @@
 # flutter_ncov
 
-A new Flutter project.
+一个Flutter的学习项目，所用的所有数据都是网上提供的开源数据。
 
-## Getting Started
+## 应用截图
 
-This project is a starting point for a Flutter application.
+![./screens/1.png](./screens/1.png)
 
-A few resources to get you started if this is your first Flutter project:
+![./screens/1.png](./screens/2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![./screens/1.png](./screens/3.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![./screens/1.png](./screens/4.png)
+
+![./screens/1.png](./screens/5.png)
+
